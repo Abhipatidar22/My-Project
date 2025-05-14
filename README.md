@@ -1,7 +1,5 @@
 # My-Project
-Stock Price Prediction using Machine Learning Algorithms
-Stock Price Predictor - Detailed Project Description
-Overview
+Stock Price Prediction using Machine Learning Algorithms.
 The Stock Price Predictor is a Streamlit-based web application that simulates stock price predictions using synthetic data. It allows users to input a stock ticker (e.g., "AAPL" for Apple) and generates a forecast for the next day's closing price based on historical trends.
 Since this is a demo application, it does not fetch real-time stock market data. Instead, it generates synthetic stock prices to demonstrate how predictive modeling works.
 Key Features
